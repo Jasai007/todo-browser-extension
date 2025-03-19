@@ -5,4 +5,5 @@
 
 
 ## Creating a Chrome Extension
-https://jasaiblogs.hashnode.dev/easy-guide-building-a-simple-to-do-list-api-for-chrome-extensions#heading-part-2-creating-the-chrome-extension
+[Step-by-Step Guide: creating-the-chrome-extension](
+https://jasaiblogs.hashnode.dev/easy-guide-building-a-simple-to-do-list-api-for-chrome-extensions#heading-part-2-creating-the-chrome-extension)
